@@ -1,0 +1,24 @@
+{
+    "name": "skymeyer/phpkafka-stubs",
+    "type": "library",
+    "description": "phpkafka stub file for IDE code autocompletion",
+    "keywords": ["phpkafka", "kafka", "stub", "PHP-IDE", "Eclipse", "Zend Studio", "phpStorm", "Netbeans"],
+    "homepage": "https://github.com/skymeyer/phpkafka-stubs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elias Van Ootegem",
+            "homepage": "https://github.com/EVODelavega",
+            "role": "Main developer"
+        },
+        {
+            "name": "Jelle Vink",
+            "email": "jelle.vink@gmail.com",
+            "homepage": "http://skymeyer.be",
+            "role": "Stub package maintainer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    }
+}

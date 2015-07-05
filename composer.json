@@ -1,8 +1,8 @@
 {
     "name": "skymeyer/phpkafka-stubs",
     "type": "library",
-    "description": "phpkafka stub file for IDE code autocompletion",
-    "keywords": ["phpkafka", "kafka", "stub", "PHP-IDE", "Eclipse", "Zend Studio", "phpStorm", "Netbeans"],
+    "description": "IDE autocomplete stubs for Kafka PHP extension",
+    "keywords": ["phpkafka", "kafka", "stub", "autocomplete", "PHP-IDE", "Eclipse", "Zend Studio", "phpStorm", "Netbeans"],
     "homepage": "https://github.com/skymeyer/phpkafka-stubs",
     "license": "MIT",
     "authors": [
